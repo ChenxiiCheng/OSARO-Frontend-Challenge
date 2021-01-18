@@ -1,0 +1,33 @@
+.robot__wrapper {
+  position: relative;
+  font-size: 20px;
+}
+
+.robot__button {
+  margin: 0 10px;
+}
+
+.current__state {
+  margin-top: 15px;
+}
+
+.robot__button:first-child {
+  margin-left: -1px;
+}
+
+.robot__history {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.robot__failedCount {
+  margin-top: 30px;
+}
+
+.ant-btn-dangerous {
+  color: #ff4d4f !important;
+}
+
+.ant-btn-primary {
+  color: #fff !important;
+}
