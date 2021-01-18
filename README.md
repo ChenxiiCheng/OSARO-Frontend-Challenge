@@ -2,6 +2,8 @@
 
 > This is my OSARO Frontend Challenge Solution. Created By: Chenxi Cheng | Time: 01/17/2021
 
+[GitHub Repo](https://github.com/ChenxiiCheng/OSARO-Frontend-Challenge)
+
 ### 1. Preview
 
 ![image-1](./previews/preview1.png)
